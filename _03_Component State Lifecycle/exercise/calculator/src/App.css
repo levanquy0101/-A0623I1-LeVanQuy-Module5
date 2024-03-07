@@ -1,0 +1,15 @@
+#app{
+  text-align: center;
+}
+form{
+  min-width: 20%;
+  width: 200px;
+  margin: 100px auto;
+  text-align: center;
+  padding: 4px;
+  border: 1px solid black;
+}
+button{
+  margin: 4px;
+  padding: 4px 12px;
+}
