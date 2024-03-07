@@ -3,7 +3,9 @@
 npm install -g typescript
 
 Câu lệnh để để chương trình biên dịch mã typescript sang javascript
+
 tsc src/main.ts
 
 Câu lệnh để hiển thị kết quả trên Terminal 
+
 node src/main.js
