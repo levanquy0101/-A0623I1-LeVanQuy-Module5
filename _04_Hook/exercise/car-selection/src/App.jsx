@@ -26,7 +26,7 @@ function App() {
       </select>
       <br />
       <label htmlFor="">Select a color</label>
-      <select name="" id="" onChange={handleColorChange}>
+      <select name="" id="" onChange={e => handleColorChange(e)}>
         <option value="red">Red</option>
         <option value="blue">Blue</option>
         <option value="black">Black</option>
